@@ -4,7 +4,7 @@
 
   import { onMount } from "svelte";
   onMount(() => {
-    fetch("https://gitinitapi.jainkunal.me/leaderboardstats").then(
+    fetch("http://206.189.134.245/stats").then(
       (response) => {
         response
           .json()

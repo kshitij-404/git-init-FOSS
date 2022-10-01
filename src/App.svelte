@@ -21,7 +21,7 @@
     window.document.body.classList.toggle('dark-mode')
   })
   onMount(() => {
-    const URL = "https://gitinitapi.jainkunal.me/leaderboardstats";
+    const URL = "http://206.189.134.245/stats";
     fetch(URL).then((response) => {
       response
         .json()

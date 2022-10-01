@@ -20,7 +20,7 @@
   }
 
   onMount(() => {
-    fetch('https://gitinitapi.jainkunal.me/leaderboard')
+    fetch('http://206.189.134.245')
       .then((res) => {
         res
           .json()
