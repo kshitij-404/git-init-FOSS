@@ -218,7 +218,7 @@ export let projects = [
     maintainers: [ 'varunKT001' ]
   },
   {
-    title: 'TomperWear - E-commerce',
+    title: 'TomperWear: Frontend',
     repo: 'https://github.com/varunKT001/tomper-wear-ecommerce',
     stack: [
       'JavaScript',
