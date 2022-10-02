@@ -6,7 +6,7 @@
 </script>
 
 <main>
-  <div class="date">AASF/2021</div>
+  <div class="date">AASF/2022</div>
   <div class="socials">
     <a
       rel="noopener"

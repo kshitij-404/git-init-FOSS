@@ -20,7 +20,7 @@
   }
 
   onMount(() => {
-    fetch('http://206.189.134.245')
+    fetch("https://git-init-foss-api.aasf.in")
       .then((res) => {
         res
           .json()

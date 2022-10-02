@@ -25,21 +25,6 @@ export let projects = [
     maintainers: [ 'kailash360' ]
   },
   {
-    title: 'Expresso',
-    repo: 'https://github.com/gurpreet-legend/Expresso',
-    stack: [
-      'JavaScript',
-      ' HTML',
-      ' CSS',
-      ' React',
-      ' Next',
-      ' Documentation'
-    ],
-    desc: 'A blogging website',
-    pre: 'ReactJS, NextJS, GraphQL, Tailwindcss, GraphCMS',
-    maintainers: [ 'gurpreet-legend' ]
-  },
-  {
     title: 'Alan-Feed',
     repo: 'https://github.com/gurpreet-legend/Alan-Feed',
     stack: [ 'JavaScript', ' HTML', ' CSS', ' React' ],
@@ -48,7 +33,7 @@ export let projects = [
     maintainers: [ 'gurpreet-legend' ]
   },
   {
-    title: 'Brainiac',
+    title: 'Brainiac-Frontend',
     repo: 'https://github.com/gurpreet-legend/Face-Recognition-Brainiac-Frontend',
     stack: [ 'JavaScript', ' HTML', ' CSS', ' React' ],
     desc: 'Face Detection Application',
