@@ -8,8 +8,8 @@ export let projects = [
       'JavaScript',
       ' HTML',
       ' CSS',
-      ' Node.js',
-      ' Express.js',
+      ' NodeJS',
+      ' ExpressJS',
       ' PostgreSQL'
     ],
     desc: 'A simple but useful e-commerce platform to buy and sell products.',
@@ -19,7 +19,7 @@ export let projects = [
   {
     title: 'Snap Stock',
     repo: 'https://github.com/kailash360/Snap-Stock',
-    stack: [ 'JavaScript', ' Solidity', ' CSS', ' React' ],
+    stack: [ 'JavaScript', ' Solidity', ' CSS', ' ReactJS' ],
     desc: 'Snap Stock is a decentralized application that allows users to upload their images over the platform at the cost of gas fee, and display it to the other users who can then tip the creators based on their choice.',
     pre: 'Blockchain, ReactJS',
     maintainers: [ 'kailash360' ]
@@ -27,23 +27,23 @@ export let projects = [
   {
     title: 'Alan-Feed',
     repo: 'https://github.com/gurpreet-legend/Alan-Feed',
-    stack: [ 'JavaScript', ' HTML', ' CSS', ' React' ],
-    desc: 'A Voice-Assisstant News Application',
+    stack: [ 'JavaScript', ' HTML', ' CSS', ' ReactFS' ],
+    desc: 'A Voice-Assistant News Application',
     pre: 'ReactJS, JavaScript',
     maintainers: [ 'gurpreet-legend' ]
   },
   {
     title: 'Brainiac-Frontend',
     repo: 'https://github.com/gurpreet-legend/Face-Recognition-Brainiac-Frontend',
-    stack: [ 'JavaScript', ' HTML', ' CSS', ' React' ],
+    stack: [ 'JavaScript', ' HTML', ' CSS', ' ReactJS' ],
     desc: 'Face Detection Application',
-    pre: 'JavaScript, React',
+    pre: 'JavaScript, ReactJS',
     maintainers: [ 'gurpreet-legend' ]
   },
   {
     title: 'Brainiac-Backend',
     repo: 'https://github.com/gurpreet-legend/Face-Recognition-Braniac-Backend',
-    stack: [ 'JavaScript', ' Node.js', ' Express.js', ' PostgreSQL' ],
+    stack: [ 'JavaScript', ' NodeJS', ' ExpressJS', ' PostgreSQL' ],
     desc: 'Backend of Face Detection Brainiac Application',
     pre: 'JavaScript, NodeJS, ExpressJS',
     maintainers: [ 'gurpreet-legend' ]
@@ -76,16 +76,16 @@ export let projects = [
   {
     title: 'Uthaan Frontend Repository',
     repo: 'https://github.com/Uthaan-IIITM/Uthaan-Frontend',
-    stack: [ 'JavaScript', ' HTML', ' CSS', ' React', ' Documentation' ],
-    desc: 'Uthaan is journalism and recreation club of IIIT Gwalior. Frontend of Uthaan website is based on react and redux',
+    stack: [ 'JavaScript', ' HTML', ' CSS', ' ReactJS', ' Documentation' ],
+    desc: 'Uthaan is journalism and recreation club of IIIT Gwalior. Frontend of Uthaan website is based on reactJS and redux.',
     pre: '',
     maintainers: [ 'akashgupta1909', 'RajVarsani' ]
   },
   {
     title: 'Uthaan backend',
     repo: 'https://github.com/Uthaan-IIITM/uthaan-backend',
-    stack: [ 'JavaScript', ' Node.js', ' Express.js', ' MongoDB' ],
-    desc: 'Uthaan is the journalism and recreation club of IIIT Gwalior. Uthaan backend is based on node.js, express.js and mongoDb.',
+    stack: [ 'JavaScript', ' NodeJS', ' ExpressJS', ' MongoDB' ],
+    desc: 'Uthaan is the journalism and recreation club of IIIT Gwalior. Uthaan backend is based on nodeJS, expressJS and mongoDB.',
     pre: '',
     maintainers: [ 'akashgupta1909', 'RajVarsani', 'kailash360' ]
   },
@@ -97,7 +97,7 @@ export let projects = [
       ' Python',
       ' HTML',
       ' CSS',
-      ' Node.js',
+      ' NodeJS',
       ' Flask',
       ' Documentation'
     ],
@@ -113,20 +113,20 @@ export let projects = [
       ' HTML',
       ' CSS',
       ' React',
-      ' Node.js',
-      ' Express.js',
+      ' NodeJS',
+      ' ExpressJS',
       ' Firebase',
       ' Documentation'
     ],
-    desc: 'A secure P2P video call application made with React.js + Firebase + WebRTC + Express.',
+    desc: 'A secure P2P video call application made with ReactJS + Firebase + WebRTC + ExpressJS.',
     pre: 'Other than the tech stack mentioned, basic WebRTC, if you are thinking of tinkering with the video call aspect of the code.',
     maintainers: [ 'theninza' ]
   },
   {
     title: 'Imcrypt',
     repo: 'https://github.com/TheNinza/imcrypt',
-    stack: [ 'JavaScript', ' Node.js' ],
-    desc: 'An image encryption node-js command line interface',
+    stack: [ 'JavaScript', ' NodeJS' ],
+    desc: 'An image encryption nodeJS command line interface',
     pre: '',
     maintainers: [ 'theninza' ]
   },
@@ -140,9 +140,9 @@ export let projects = [
       ' C',
       ' HTML',
       ' CSS',
-      ' React'
+      ' ReactJS'
     ],
-    desc: 'A DSA Visualizer.',
+    desc: 'A DSA Visualizer',
     pre: '',
     maintainers: [ 'theninza' ]
   },
@@ -151,20 +151,20 @@ export let projects = [
     repo: 'https://github.com/sohan2410/crypto-transactions',
     stack: [
       'JavaScript',
-      ' Node.js',
-      ' Express.js',
+      ' NodeJS',
+      ' ExpressJS',
       ' MongoDB',
       ' Documentation'
     ],
-    desc: "Get Ether related data using Etherscan API's",
+    desc: "Get Ether related data using Etherscan APIs",
     pre: 'NodeJs',
     maintainers: [ 'sohan2410' ]
   },
   {
     title: 'Pokedex',
     repo: 'https://github.com/XDRAGON2002/POKEDEX',
-    stack: [ 'JavaScript', ' HTML', ' CSS', ' React', ' Documentation' ],
-    desc: 'React frontend project that fetches pokemon data from an API and displays them to the user.',
+    stack: [ 'JavaScript', ' HTML', ' CSS', ' ReactJS', ' Documentation' ],
+    desc: 'ReactJS frontend project that fetches pokemon data from an API and displays them to the user.',
     pre: 'HTML, CSS, JS',
     maintainers: [ 'XDRAGON2002' ]
   },
@@ -175,9 +175,9 @@ export let projects = [
       'JavaScript',
       ' HTML',
       ' CSS',
-      ' React',
-      ' Node.js',
-      ' Express.js',
+      ' ReactJS',
+      ' NodeJS',
+      ' ExpressJS',
       ' MongoDB',
       ' Documentation'
     ],
@@ -196,7 +196,7 @@ export let projects = [
   {
     title: 'Tomper-Readmify',
     repo: 'https://github.com/varunKT001/tomper-readmify',
-    stack: [ 'TypeScript', ' React', ' Node.js', ' Express.js' ],
+    stack: [ 'TypeScript', ' ReactJS', ' NodeJS', ' ExpressJS' ],
     desc: "A simple editor allows you to easily add and customize all the sections you need for your profile's readme.",
     pre: '',
     maintainers: [ 'varunKT001' ]
@@ -204,7 +204,7 @@ export let projects = [
   {
     title: 'Tomper-Chat',
     repo: 'https://github.com/varunKT001/tomper-chat',
-    stack: [ 'JavaScript', ' React', ' Node.js', ' Express.js', ' MongoDB' ],
+    stack: [ 'JavaScript', ' ReactJS', ' NodeJS', ' ExpressJS', ' MongoDB' ],
     desc: 'TomperChat is a clone of WhatsApp. Its build using MERN stack and uses socket.io for realtime messaging, online statuses, typing indicators, notifications etc.',
     pre: 'A basic understanding of WebSockets and socket.io is a must.',
     maintainers: [ 'varunKT001' ]
@@ -212,7 +212,7 @@ export let projects = [
   {
     title: 'TLOC',
     repo: 'https://github.com/varunKT001/tloc',
-    stack: [ 'TypeScript', ' Node.js' ],
+    stack: [ 'TypeScript', ' NodeJS' ],
     desc: 'A CLI tool to determine how many lines of code you have written for your project.',
     pre: '',
     maintainers: [ 'varunKT001' ]
@@ -223,8 +223,8 @@ export let projects = [
     stack: [
       'JavaScript',
       ' React',
-      ' Node.js',
-      ' Express.js',
+      ' NodeJS',
+      ' ExpressJS',
       ' MongoDB',
       ' Firebase'
     ],
@@ -235,7 +235,7 @@ export let projects = [
   {
     title: 'TomperWear: Backend',
     repo: 'https://github.com/varunKT001/tomper-wear-ecommerce-backend',
-    stack: [ 'JavaScript', ' Node.js', ' Express.js', ' MongoDB' ],
+    stack: [ 'JavaScript', ' NodeJS', ' ExpressJS', ' MongoDB' ],
     desc: 'TomperWear is an E-commerce platform for small business owners who want to expand their business by providing an online purchase solution to their customers.',
     pre: '',
     maintainers: [ 'varunKT001' ]
@@ -243,7 +243,7 @@ export let projects = [
   {
     title: 'TomperWear: Admin Dashboard',
     repo: 'https://github.com/varunKT001/tomper-wear-ecommerce-admin',
-    stack: [ 'JavaScript', ' React' ],
+    stack: [ 'JavaScript', ' ReactJS' ],
     desc: 'TomperWear is an E-commerce platform for small business owners who want to expand their business by providing an online purchase solution to their customers.',
     pre: '',
     maintainers: [ 'varunKT001' ]
@@ -256,7 +256,7 @@ export let projects = [
       ' TypeScript',
       ' Solidity',
       ' Next',
-      ' Node.js',
+      ' NodeJS',
       ' Documentation'
     ],
     desc: "NFT marketplace is a digital platform to create and trade digital assets. There are several marketplaces to create, sell, buy and trade NFTs. This is one small implementation of such platforms. The platform can allow you to buy and sell NFTs. You can also withdraw funds which you earned after selling the NFTs. For supporting fast and complex queries, this system uses a decentralised indexing protocol, 'The Graph'. The smart contract is currently deployed on Rinkeby Testnet.",
