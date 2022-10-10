@@ -259,26 +259,26 @@ export let projects = [
   {
     title: 'GitFest',
     repo: 'https://github.com/sohan2410/GitFest',
-    stack: 'Documentation',
+    stack: ['Documentation'],
     desc: "As part of Git-Init-FOSS'22, the GitFest project intends to help contributors become more proficient with Git and GitHub by having them complete some challenges. The tasks will be listed in this repository's issue area.",
     pre: '',
-    maintainers: 'sohan2410'
+    maintainers: ['sohan2410']
   },
   {
     title: 'ConnectX-Frontend',
     repo: 'https://github.com/ConnectX-IIIT/connectx-frontend',
-    stack: 'JavaScript, HTML, CSS, React',
+    stack: ['JavaScript', 'HTML', 'CSS', 'React'],
     desc: 'ConnectX - Create your own connections with us. We give you the opportunity to strengthen your bond with alumni.\nWith Alumni’s help, you may improve your abilities and build a better future.',
     pre: '',
-    maintainers: 'UjjawalGupta30, RajVarsani, akashgupta1909, HarshilMendpara'
+    maintainers: ['UjjawalGupta30', 'RajVarsani', 'akashgupta1909', 'HarshilMendpara']
   },
   {
     title: 'ConnectX-Backend',
     repo: 'https://github.com/ConnectX-IIIT/connectx-backend',
-    stack: 'JavaScript, Node, ExpressJS, AWS',
+    stack: ['JavaScript', 'Node', 'ExpressJS', 'AWS'],
     desc: 'ConnectX - Create your own connections with us. We give you the opportunity to strengthen your bond with alumni.\nWith Alumni’s help, you may improve your abilities and build a better future.',
     pre: '',
-    maintainers: 'UjjawalGupta30, RajVarsani, akashgupta1909, HarshilMendpara'
+    maintainers: ['UjjawalGupta30', 'RajVarsani', 'akashgupta1909', 'HarshilMendpara']
   }
 ];
 
