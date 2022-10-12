@@ -279,6 +279,22 @@ export let projects = [
     desc: 'ConnectX - Create your own connections with us. We give you the opportunity to strengthen your bond with alumni.\nWith Alumni’s help, you may improve your abilities and build a better future.',
     pre: '',
     maintainers: ['UjjawalGupta30', 'RajVarsani', 'akashgupta1909', 'HarshilMendpara']
+  },
+  {
+    title: 'Horario',
+    repo: 'https://github.com/hs2361/horario',
+    stack: ['Dart', 'Flutter', 'Firebase'],
+    desc: 'Horario is a Class Management and Notes Sharing App for students. Users can add classes to their weekly schedule, along with their timings and the link to join the class. Users can also add assignments to their schedule along with the deadline. Horario will remind the user of their class or assignment using a push notification. Users can upload notes with their group of fellow students. Users can also send requests for notes from their group. Horario organizes notes in a systematic manner, arranged by subject. Users can also search for notes by subject, notes name or file name.',
+    pre: 'Flutter',
+    maintainers: ['hs2361', 'kc611', 'DebadityaPal']
+  },
+  {
+    title: 'Image Processing Library',
+    repo: 'https://github.com/hs2361/k-means-compressor',
+    stack: ['C++', 'C'],
+    desc: 'It is an image processing and compression library written in C/C++. It supports basic image editing tools. Image compression is done using K-Means Algorithm. Seam Carving for image resizing has also been implemented. Contributors can implement new algorithms for image processing and increase the coverage of the library as a whole.',
+    pre: 'C++, STL Algorithms, Data Structures.',
+    maintainers: ['hs2361', 'DebadityaPal']
   }
 ];
 
