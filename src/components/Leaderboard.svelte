@@ -20,7 +20,7 @@
   }
 
   onMount(() => {
-    fetch("https://git-init-foss-api.aasf.in")
+    fetch("https://git-init-foss-backend.onrender.com")
       .then((res) => {
         res
           .json()
