@@ -21,7 +21,7 @@
     window.document.body.classList.toggle('dark-mode')
   })
   onMount(() => {
-    const URL = "https://git-init-foss-api.aasf.in/stats";
+    const URL = "https://git-init-foss-backend.onrender.com/stats";
     fetch(URL).then((response) => {
       response
         .json()
