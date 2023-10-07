@@ -124,12 +124,36 @@ export let projects = [
     maintainers: ['sadityakumar9211']
   },
   {
-    title: 'Diversified',
-    repo: 'https://github.com/Spedrick/GitInit-Foss',
-    stack: ['JavaScript', ' NodeJS', 'Typescript', 'Python', 'Java', 'C++', 'C', 'HTML', 'CSS', 'ReactJS', 'Angular', 'Vue', 'Kotlin', ],
-    desc: 'Diversified',
+    title: 'Video Calling Web App',
+    repo: 'https://github.com/Spedrick/webRTC-server',
+    stack: ['JavaScript', ' NodeJS', 'Typescript', 'React Native', 'Firebase', 'CSS', 'ReactJS', 'Angular', 'Vue', 'Documentation', ],
+    desc: 'WebRTC server using peer.js',
+    pre: 'Basics of Web Development',
+    maintainers: ['Spedrick']
+  },
+  {
+    title: 'Android Gallery App',
+    repo: 'https://github.com/Spedrick/Gallery',
+    stack: ['Dart', ' Java', 'Flutter', 'React Native', 'Kotlin', 'PostgresSQL', 'SQL', 'Firebase','Documentation', ],
+    desc: 'An Android Project for gallery using flickr/Pexels API',
+    pre: 'Any Android tech stack',
+    maintainers: ['Spedrick']
+  },
+  {
+    title: 'Jennifer - Personal Voice Assistant',
+    repo: 'https://github.com/Spedrick/Jennifer---Speech-Assistant',
+    stack: ['Python', ' Django', 'Flask', 'MongoDB', 'PostgresSQL', 'SQL', 'Firebase', 'Documentation', ],
+    desc: 'Jennifer is a voice commanding assistant service in Python 3.5+ It can recognize human speech, talk to user and execute basic commands.',
     pre: '',
     maintainers: ['Spedrick']
+  },
+  {
+    title: 'Daily-Sync',
+    repo: 'https://github.com/joeyyy09/Daily-Sync.git',
+    stack: ['Dart', 'Firebase', 'Documentation', ],
+    desc: 'A To-Do daily planner',
+    pre: '',
+    maintainers: ['joeyyy09']
   }
 ];
 
