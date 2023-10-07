@@ -149,7 +149,7 @@ export let projects = [
   },
   {
     title: 'Daily-Sync',
-    repo: 'https://github.com/joeyyy09/Daily-Sync.git',
+    repo: 'https://github.com/joeyyy09/Daily-Sync',
     stack: ['Dart', 'Firebase', 'Documentation', ],
     desc: 'A To-Do daily planner',
     pre: '',
